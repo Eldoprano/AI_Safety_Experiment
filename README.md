@@ -29,6 +29,9 @@ The experiment follows a 3-step process:
 - **Data Collection**: Responses to both neutral and potentially harmful prompts
 - **Analysis**: Comparison of initial vs. revised responses
 
+## Versions
+The code used for the first version of our paper is available under [v1](https://github.com/Eldoprano/AI_Safety_Experiment/tree/v1_experiments) branch.
+
 ## 📚 References
 
 [1] Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kaplan, J. (2022). Constitutional AI: Harmlessness from AI Feedback. *arXiv preprint arXiv:2212.08073*.
