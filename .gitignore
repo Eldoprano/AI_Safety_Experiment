@@ -1,2 +1,3 @@
 /.venv
 /interactions.json
+/harmbench_interactions*.json
