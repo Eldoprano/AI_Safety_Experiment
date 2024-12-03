@@ -2,3 +2,6 @@
 /interactions.json
 /harmbench_interactions*.json
 /analysis_results*.json
+/secrets.json
+/evaluation_results.json
+/requests.jsonl
